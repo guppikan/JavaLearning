@@ -1,2 +1,2 @@
 # JavaLearning
-This is will repo for java learning programs 
+This is repo for java learners programs 
